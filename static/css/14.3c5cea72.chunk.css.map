@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.less"],"names":[],"mappings":"AAAA,yBACI,WAAA,CACA,UACJ,CAIA,uBACI,UAAA,CACA,YAAA,CAEA,gBAHJ","file":"14.3c5cea72.chunk.css","sourcesContent":[".floatLeft {\n    width: 260px;\n    float: left;\n    // border: 1px solid blue;\n\n}\n\n.floatRight {\n    float: left;\n    width: 1200px;\n    // border: 1px solid red;\n    min-height: 100vh;\n}"]}
